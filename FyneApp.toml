@@ -1,0 +1,8 @@
+Website = "https://github.com/geek/b64ui"
+
+[Details]
+  Icon = "Icon.png"
+  Name = "b64 UI"
+  ID = "com.b64.app"
+  Version = "1.0.0"
+  Build = 2
